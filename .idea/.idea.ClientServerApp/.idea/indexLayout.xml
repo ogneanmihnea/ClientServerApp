@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>App.config</Path>
+      <Path>Model/App.config</Path>
+      <Path>Model/Competition.cs</Path>
+      <Path>Model/Entity.cs</Path>
+      <Path>Model/Participant.cs</Path>
+      <Path>Model/User.cs</Path>
+      <Path>Model/packages.config</Path>
+      <Path>log4net.config</Path>
+      <Path>packages.config</Path>
+    </explicitIncludes>
+    <explicitExcludes />
+  </component>
+</project>
